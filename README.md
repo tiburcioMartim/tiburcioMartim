@@ -9,12 +9,12 @@
 - Ferramentas: [Git]
 
 ## Projetos em Destaque
-- [Nome do Projeto 1](https://github.com/tiburcioMartim/academic-finalProject-hbomax): Diversos conceitos sobre CSS e neste projeto eu aplico muito do que foi aprendido no curso de fundamentos CSS
-- [Nome do Projeto 2](https://github.com/tiburcioMartim/academic-DIO-Pokedex-Training-JavaScript-Developer): Neste projeto foi abordado conceitos de promisse, consumo de API e programação em javascript
-- [Nome do Projeto 3](https://github.com/tiburcioMartim/academico-NLW-Expert-trilha-de-HTML-CSS-e-Javascript-da-Rocketset.): Foi proposto um quiz onde nós aplicamos a construção do HTML e CSS e programamos um quiz com perguntas e respostas com Javascript
+- [Clone HBO Max](https://github.com/tiburcioMartim/academic-finalProject-hbomax): Diversos conceitos sobre CSS e neste projeto eu aplico muito do que foi aprendido no curso de fundamentos CSS
+- [Pokedex](https://github.com/tiburcioMartim/academic-DIO-Pokedex-Training-JavaScript-Developer): Neste projeto foi abordado conceitos de promisse, consumo de API e programação em javascript
+- [Quiz](https://github.com/tiburcioMartim/academico-NLW-Expert-trilha-de-HTML-CSS-e-Javascript-da-Rocketset.): Foi proposto um quiz onde nós aplicamos a construção do HTML e CSS e programamos um quiz com perguntas e respostas com Javascript
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=tiburcioMartim&show_icons=true&theme=radical)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/tiburciomartim/)
