@@ -2,7 +2,7 @@
 
 I'm student in Computer Cience
 
-### 💫 Liitle Bit More About Me
+### 💫 Little Bit More About Me
 
 - 🌱 I am currently looking for an internship where I can put into practice the technologies I have learned and to add to the company.
 - 📫 How to reach me? tiburciomartim@gmail.com
